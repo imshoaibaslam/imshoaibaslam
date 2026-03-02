@@ -51,18 +51,6 @@ one real project every day — publicly on GitHub and LinkedIn.
 
 ---
 
-### 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=imshoaibaslam&color=0F2D6B&style=flat)
-
-![Shoaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshoaibaslam&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshoaibaslam&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imshoaibaslam&theme=dark&hide_border=true)
-
----
-
 ### 🌱 Currently Learning
 - 📘 IBM Data Science Professional Certificate
 - 📗 Statistics for Data Science
