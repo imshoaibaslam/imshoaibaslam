@@ -43,7 +43,7 @@ one real project every day publicly on GitHub and LinkedIn.
 🔵 **Day 02** — Coming tomorrow...  
 ⚫ **Days 03–100** — Watch this space...
 
-![Progress](https://progress-bar.dev/1/?title=100%20Days%20Progress&width=500&color=0F2D6B)
+![Progress](https://geps.dev/progress/1)
 
 ---
 
