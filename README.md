@@ -62,8 +62,6 @@ notebook pushed to GitHub every single day.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imshoaibaslam&theme=dark&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=imshoaibaslam&color=0F2D6B&style=flat)
-
 ---
 
 ## Connect
