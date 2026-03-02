@@ -3,7 +3,7 @@
 
 CS graduate with 5+ years of analytical experience, transitioning 
 fully into Data Science and AI Engineering. Building and documenting 
-one real project every day — publicly on GitHub and LinkedIn.
+one real project every day publicly on GitHub and LinkedIn.
 
 ---
 
@@ -32,14 +32,18 @@ one real project every day — publicly on GitHub and LinkedIn.
 |---|---|
 | 🔭 Building | 100-Days-of-Data-Science challenge |
 | 🌱 Learning | Machine Learning · Statistics · RAG Systems |
-| 🎯 Goal | MSc Data Science & AI — University of Hull, UK |
+| 🎯 Goal | MSc Data Science & AI |
 | 💼 Open to | Junior Data Scientist · Data Analyst · ML Intern (UK & Remote) |
 
 ---
 
-### 📊 My 100 Days Progress
-> 🟩 Day 1 of 100 — Missing Values Analysis  
-> 🟦 Days 2–100 — Coming soon...
+### 🏆 100 Days Challenge
+
+🟢 **Day 01** — Missing Values Analysis → [View Notebook](https://github.com/imshoaibaslam/100-Days-of-Data-Science)  
+🔵 **Day 02** — Coming tomorrow...  
+⚫ **Days 03–100** — Watch this space...
+
+![Progress](https://progress-bar.dev/1/?title=100%20Days%20Progress&width=500&color=0F2D6B)
 
 ---
 
