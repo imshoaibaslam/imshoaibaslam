@@ -60,11 +60,9 @@ notebook pushed to GitHub every single day.
 
 ## GitHub Stats
 
-![Shoaib's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=imshoaibaslam&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=imshoaibaslam&layout=compact&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imshoaibaslam&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=imshoaibaslam&color=0F2D6B&style=flat)
 
 ---
 
