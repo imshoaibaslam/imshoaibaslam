@@ -14,8 +14,7 @@ I am a Computer Science graduate who spent 5 years extracting
 insights from campaign data, tracking KPIs, and making data-driven 
 decisions in fast-paced remote environments. I am now formalising 
 that analytical foundation into a dedicated Data Science career — 
-building toward an MSc in Data Science & AI at the University of 
-Hull, UK.
+building toward an MSc in Data Science & AI
 
 ---
 
