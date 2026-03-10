@@ -1,5 +1,5 @@
 # Shoaib Aslam
-** Data Scientist | Machine Learning · AI Engineering · Python**
+Data Scientist | Machine Learning · AI Engineering · Python
 
 CS graduate with 5+ years of analytical experience across UK, US, 
 and South Korean markets. Currently transitioning fully into Data 
